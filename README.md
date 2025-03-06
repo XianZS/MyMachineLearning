@@ -1,2 +1,2 @@
 # MyMachineLearning
-MyMachineLearingLearn
+MyMachineLearningLearn
